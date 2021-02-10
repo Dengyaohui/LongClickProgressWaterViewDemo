@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaterProgressView">
+        <attr name="background_color" format="color"/><!--圆的颜色-->
+        <attr name="progress_color" format="color"/><!--进度的颜色-->
+    </declare-styleable>
+
+</resources>
